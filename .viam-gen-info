@@ -1,0 +1,13 @@
+{
+  "module_name": "echo-module",
+  "namespace": "bashar-prod",
+  "language": "go",
+  "resource_type": "component",
+  "resource_subtype": "generic",
+  "model_name": "echo-model",
+  "enable_cloud_build": false,
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2025-06-17T15:08:02.902626Z",
+  "module_readme_link": "README.md"
+}
